@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Nisrine AOMARI</h1>
-<h3 align="center">Software Engineering - 10 months of experience in Full Stack development and project management - Technologies: Python, Django, NLP, RAG - French B2 - English C1 - Problem-solving - Adaptability - Leadership -  - Emotional Intelligence - Teamwork.
+<h3 align="center">Software Engineering - 10 months of experience in Full Stack development and project management - Technologies: Python, Django, NLP, RAG, Java, Spring Boot, Hibernate - French B2 - English C1 - Problem-solving - Adaptability - Leadership -  - Emotional Intelligence - Teamwork.
 .</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nisrine10&label=Profile%20views&color=0e75b6&style=flat" alt="nisrine10" /> </p>
 <p align="left"> 
